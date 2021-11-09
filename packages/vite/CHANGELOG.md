@@ -1,3 +1,12 @@
+# [2.7.0-beta.4](https://github.com/vitejs/vite/compare/v2.7.0-beta.3...v2.7.0-beta.4) (2021-11-09)
+
+
+### Features
+
+* allow css to be written for systemjs output ([590c977](https://github.com/vitejs/vite/commit/590c97783d207e6eec5f9db43032254852893305))
+
+
+
 # [2.7.0-beta.3](https://github.com/vitejs/vite/compare/v2.7.0-beta.2...v2.7.0-beta.3) (2021-11-08)
 
 
