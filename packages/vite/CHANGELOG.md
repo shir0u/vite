@@ -1,3 +1,17 @@
+# [2.7.0-beta.6](https://github.com/vitejs/vite/compare/v2.7.0-beta.5...v2.7.0-beta.6) (2021-11-15)
+
+
+### Bug Fixes
+
+* **dev:** Fix infinite recursion on query imports ([#5671](https://github.com/vitejs/vite/issues/5671)) ([#5674](https://github.com/vitejs/vite/issues/5674)) ([bce4e56](https://github.com/vitejs/vite/commit/bce4e56cb12b3c76f48bf2ddc37423025e79a0d2))
+
+
+### Features
+
+* allow css to be written for systemjs output ([1effa2e](https://github.com/vitejs/vite/commit/1effa2e22a432d2e0a0bdf5c3679df7f11841c35))
+
+
+
 # [2.7.0-beta.5](https://github.com/vitejs/vite/compare/v2.7.0-beta.4...v2.7.0-beta.5) (2021-11-13)
 
 
