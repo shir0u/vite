@@ -1,3 +1,17 @@
+# [2.7.0-beta.10](https://github.com/vitejs/vite/compare/v2.7.0-beta.9...v2.7.0-beta.10) (2021-11-30)
+
+
+### Bug Fixes
+
+* **resolve:** dont overwrite `isRequire` from `baseOptions` ([#5872](https://github.com/vitejs/vite/issues/5872)) ([2b91e5a](https://github.com/vitejs/vite/commit/2b91e5aadaee0947eb9864367ae85762573a8dc4))
+
+
+### Features
+
+* allow css to be written for systemjs output ([47714ff](https://github.com/vitejs/vite/commit/47714ffccec85904926cf2534e2d0feedc80192c))
+
+
+
 # [2.7.0-beta.9](https://github.com/vitejs/vite/compare/v2.7.0-beta.8...v2.7.0-beta.9) (2021-11-27)
 
 
