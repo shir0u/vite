@@ -1,3 +1,12 @@
+## [2.7.8](https://github.com/vitejs/vite/compare/v2.7.7...v2.7.8) (2021-12-26)
+
+
+### Bug Fixes
+
+* allow css to be written for systemjs output ([f4a400c](https://github.com/vitejs/vite/commit/f4a400c353c0b04866a943b4d61fdf6cd318244b))
+
+
+
 ## [2.7.7](https://github.com/vitejs/vite/compare/v2.7.6...v2.7.7) (2021-12-26)
 
 
