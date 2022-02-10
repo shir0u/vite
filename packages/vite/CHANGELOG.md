@@ -1,3 +1,13 @@
+## [2.8.1](https://github.com/vitejs/vite/compare/v2.8.0...v2.8.1) (2022-02-10)
+
+
+### Bug Fixes
+
+* allow css to be written for systemjs output ([dc49596](https://github.com/vitejs/vite/commit/dc4959603f98ace3e90bdedf20d85abc3ba06f7f))
+* **deps:** update all non-major dependencies ([#6782](https://github.com/vitejs/vite/issues/6782)) ([e38be3e](https://github.com/vitejs/vite/commit/e38be3e6ca7bf79319d5d7188e1d347b1d6091ef))
+
+
+
 # [2.8.0](https://github.com/vitejs/vite/compare/v2.8.0-beta.7...v2.8.0) (2022-02-09)
 
 ### Reduced Footprint
