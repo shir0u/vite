@@ -1,3 +1,13 @@
+## 2.9.0-beta.4 (2022-03-17)
+
+* fix: add version to optimized chunks, fix #7323 (#7350) ([1be1db6](https://github.com/vitejs/vite/commit/1be1db6)), closes [#7323](https://github.com/vitejs/vite/issues/7323) [#7350](https://github.com/vitejs/vite/issues/7350)
+* fix: allow css to be written for systemjs output ([fd8c413](https://github.com/vitejs/vite/commit/fd8c413))
+* fix: overwrite deps info browserHash only on commit (#7359) ([1e9615d](https://github.com/vitejs/vite/commit/1e9615d)), closes [#7359](https://github.com/vitejs/vite/issues/7359)
+* chore: update es-module-lexer (#7357) ([fde0f3c](https://github.com/vitejs/vite/commit/fde0f3c)), closes [#7357](https://github.com/vitejs/vite/issues/7357)
+* chore(deps): update all non-major dependencies (#6905) ([839665c](https://github.com/vitejs/vite/commit/839665c)), closes [#6905](https://github.com/vitejs/vite/issues/6905)
+
+
+
 ## 2.9.0-beta.3 (2022-03-16)
 
 * fix: delayed full page reload (#7347) ([fa0820a](https://github.com/vitejs/vite/commit/fa0820a)), closes [#7347](https://github.com/vitejs/vite/issues/7347)
