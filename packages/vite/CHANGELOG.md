@@ -1,3 +1,9 @@
+## 2.9.0-beta.7 (2022-03-22)
+
+* fix: allow css to be written for systemjs output ([436cde5](https://github.com/vitejs/vite/commit/436cde5))
+
+
+
 ## 2.9.0-beta.6 (2022-03-22)
 
 
