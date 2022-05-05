@@ -1,3 +1,13 @@
+## <small>2.9.9 (2022-05-05)</small>
+
+* chore: prepare release ([0ba2bde](https://github.com/vitejs/vite/commit/0ba2bde))
+* fix: allow css to be written for systemjs output ([86ba9b1](https://github.com/vitejs/vite/commit/86ba9b1))
+* fix: client full reload (#8018) ([2f478ed](https://github.com/vitejs/vite/commit/2f478ed)), closes [#8018](https://github.com/vitejs/vite/issues/8018)
+* fix: handle optimize failure (#8006) ([ba95a2a](https://github.com/vitejs/vite/commit/ba95a2a)), closes [#8006](https://github.com/vitejs/vite/issues/8006)
+* fix: warn for unresolved css in html (#7911) ([2b58cb3](https://github.com/vitejs/vite/commit/2b58cb3)), closes [#7911](https://github.com/vitejs/vite/issues/7911)
+
+
+
 ## <small>2.9.8 (2022-05-04)</small>
 
 * fix: inline js and css paths for virtual html (#7993) ([d49e3fb](https://github.com/vitejs/vite/commit/d49e3fb)), closes [#7993](https://github.com/vitejs/vite/issues/7993)
