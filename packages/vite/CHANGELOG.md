@@ -1,3 +1,25 @@
+## <small>2.9.8-system (2022-05-08)</small>
+
+* chore: prepare release ([d549ea0](https://github.com/vitejs/vite/commit/d549ea0))
+* fix: allow css to be written for systemjs output ([1d6572e](https://github.com/vitejs/vite/commit/1d6572e))
+* fix: client full reload (#8018) ([2f478ed](https://github.com/vitejs/vite/commit/2f478ed)), closes [#8018](https://github.com/vitejs/vite/issues/8018)
+* fix: graceful rename in windows (#8036) ([fe704f1](https://github.com/vitejs/vite/commit/fe704f1)), closes [#8036](https://github.com/vitejs/vite/issues/8036)
+* fix: handle optimize failure (#8006) ([ba95a2a](https://github.com/vitejs/vite/commit/ba95a2a)), closes [#8006](https://github.com/vitejs/vite/issues/8006)
+* fix: invalidate ssrError when HMR update occurs (#8052) ([c7356e0](https://github.com/vitejs/vite/commit/c7356e0)), closes [#8052](https://github.com/vitejs/vite/issues/8052)
+* fix: use `strip-literal` to strip string lterals (#8054) ([1ffc010](https://github.com/vitejs/vite/commit/1ffc010)), closes [#8054](https://github.com/vitejs/vite/issues/8054)
+* fix: use Vitest for unit testing, clean regex bug (#8040) ([63cd53d](https://github.com/vitejs/vite/commit/63cd53d)), closes [#8040](https://github.com/vitejs/vite/issues/8040)
+* fix: vite client types (#7877) ([0e67fe8](https://github.com/vitejs/vite/commit/0e67fe8)), closes [#7877](https://github.com/vitejs/vite/issues/7877)
+* fix: warn for unresolved css in html (#7911) ([2b58cb3](https://github.com/vitejs/vite/commit/2b58cb3)), closes [#7911](https://github.com/vitejs/vite/issues/7911)
+* fix(css): hoist external @import for non-split css (#8022) ([5280908](https://github.com/vitejs/vite/commit/5280908)), closes [#8022](https://github.com/vitejs/vite/issues/8022)
+* fix(lib): use proper extension (#6827) ([34df307](https://github.com/vitejs/vite/commit/34df307)), closes [#6827](https://github.com/vitejs/vite/issues/6827)
+* build!: remove node v12 support (#7833) ([eeac2d2](https://github.com/vitejs/vite/commit/eeac2d2)), closes [#7833](https://github.com/vitejs/vite/issues/7833)
+* feat!: rework `import.meta.glob` (#7537) ([330e0a9](https://github.com/vitejs/vite/commit/330e0a9)), closes [#7537](https://github.com/vitejs/vite/issues/7537)
+* feat: allow any JS identifier in define, not ASCII-only (#5972) ([95eb45b](https://github.com/vitejs/vite/commit/95eb45b)), closes [#5972](https://github.com/vitejs/vite/issues/5972)
+* feat: new hook `configurePreviewServer` (#7658) ([20ea999](https://github.com/vitejs/vite/commit/20ea999)), closes [#7658](https://github.com/vitejs/vite/issues/7658)
+* refactor: remove deprecated api for 3.0 (#5868) ([b5c3709](https://github.com/vitejs/vite/commit/b5c3709)), closes [#5868](https://github.com/vitejs/vite/issues/5868)
+
+
+
 ## <small>2.9.8 (2022-05-04)</small>
 
 * fix: inline js and css paths for virtual html (#7993) ([d49e3fb](https://github.com/vitejs/vite/commit/d49e3fb)), closes [#7993](https://github.com/vitejs/vite/issues/7993)
